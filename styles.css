@@ -1,0 +1,42 @@
+body{
+    margin: 150px;
+    background: linear-gradient(rgb(26, 104, 96),turquoise);
+    font-style: italic;
+}
+#num{
+    border: 3px solid black;
+    width: 600px;
+    height: 350px;
+    bottom:100px ;
+    box-shadow: rgba(57, 56, 57, 0.4) 5px 5px, rgba(38, 36, 37, 0.3) 10px 10px, rgba(60, 57, 59, 0.2) 15px 15px, rgba(86, 84, 86, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+h1{
+    border: 2px solid black;
+    width:300px ;
+    height:44px ;
+    border-radius: 30px;
+    background:linear-gradient(rgb(79, 168, 190),rgba(6, 98, 101, 0.587));
+    color:black;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+h3{
+    font-size:30px;
+    font-style: italic;
+   
+}
+button{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(14, 104, 95);
+    color: aliceblue;
+    font-size: 17px;
+    border: 2px solid black;
+    font-style: italic;
+   
+}
+input{
+    width: 400px;
+    height: 40px;
+    border: 2px solid black;
+    
+}
